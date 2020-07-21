@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>spring05-json</artifactId>
+    <artifactId>springmvc05-json</artifactId>
 
     <dependencies>
         <dependency>
@@ -18,5 +18,4 @@
             <version>2.11.0</version>
         </dependency>
     </dependencies>
-
 </project>
