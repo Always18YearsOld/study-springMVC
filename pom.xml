@@ -16,6 +16,7 @@
         <module>springmvc04-controller</module>
         <module>springmvc05-json-my-test</module>
         <module>springmvc05-json</module>
+        <module>springmvc06-ajax</module>
     </modules>
 
 
